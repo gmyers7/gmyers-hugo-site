@@ -189,11 +189,11 @@ url = "contact/"
 
 [languages.he-il]
 languagedirection = 'rtl'
-languageName = ":yiddish:"
+languageName = ":israel:"
 title = "גרײעם מײַערס"
 
 [languages.he-il.params]
-author = "Graeme Myers"
+author = "גרײעם מײַערס"
 info = "Candidato a Mestrado, Literatura Comparativa e Estudos Judaicos - Universidade de Toronto"
 description = "Sítio pessoal de Graeme Myers"
 keywords = "academic,desenvolvedor,pessoal"
