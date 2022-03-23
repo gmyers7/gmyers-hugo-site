@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Graeme Myers</title>
+    <link>http://graememyers.com/pages/</link>
+    <description>Recent content in Pages on Graeme Myers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Mar 2022 11:42:26 -0400</lastBuildDate><atom:link href="http://graememyers.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://graememyers.com/pages/contact/contact/</link>
+      <pubDate>Wed, 23 Mar 2022 11:42:26 -0400</pubDate>
+      
+      <guid>http://graememyers.com/pages/contact/contact/</guid>
+      <description>Coming Soon</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://graememyers.com/pages/publications/publications/</link>
+      <pubDate>Wed, 23 Mar 2022 11:42:19 -0400</pubDate>
+      
+      <guid>http://graememyers.com/pages/publications/publications/</guid>
+      <description>Coming Soon</description>
+    </item>
+    
+    <item>
+      <title>Cv</title>
+      <link>http://graememyers.com/pages/cv/cv/</link>
+      <pubDate>Wed, 23 Mar 2022 11:42:13 -0400</pubDate>
+      
+      <guid>http://graememyers.com/pages/cv/cv/</guid>
+      <description>Coming Soon</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://graememyers.com/pages/about/</link>
+      <pubDate>Wed, 23 Mar 2022 11:42:00 -0400</pubDate>
+      
+      <guid>http://graememyers.com/pages/about/</guid>
+      <description>Coming Soon</description>
+    </item>
+    
+  </channel>
+</rss>
