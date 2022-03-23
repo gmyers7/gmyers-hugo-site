@@ -13,8 +13,8 @@ enableEmoji = true
 author = "Graeme Myers"
 description = "Graeme Myers Personal Site"
 keywords = "academic,developer,personal"
-info = "MA Candidate, Comparative Literature & Jewish Studies - University of Toronto"
-avatarURL = "static/graememyers.jpg"
+info = ["MA Candidate - Comparative Literature & Jewish Studies", "University of Toronto"]
+avatarURL = "/static/graememyers.jpg"
 dateFormat = "January 2, 2006"
 since = 2022
 # Git Commit in Footer, uncomment the line below to enable it
@@ -180,9 +180,40 @@ url = "cv/"
 [[languages.pt-br.menu.main]]
 name = "Publicações"
 weight = 3
-url = "publicações/"
+url = "publications/"
 
 [[languages.pt-br.menu.main]]
 name = "Contato"
+weight = 5
+url = "contact/"
+
+[languages.he-il]
+languagedirection = 'rtl'
+languageName = ":yiddish:"
+title = "גרײעם מײַערס"
+
+[languages.he-il.params]
+author = "Graeme Myers"
+info = "Candidato a Mestrado, Literatura Comparativa e Estudos Judaicos - Universidade de Toronto"
+description = "Sítio pessoal de Graeme Myers"
+keywords = "academic,desenvolvedor,pessoal"
+
+[[languages.he-il.menu.main]]
+name = "װעגן איך"
+weight = 1
+url = "about/"
+
+[[languages.he-il.menu.main]]
+name = "רעזומע"
+weight = 2
+url = "cv/"
+
+[[languages.he-il.menu.main]]
+name = "פּובליקאַציעס"
+weight = 3
+url = "publications/"
+
+[[languages.he-il.menu.main]]
+name = "קאָנטאַקטירן"
 weight = 5
 url = "contact/"
