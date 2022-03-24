@@ -187,33 +187,33 @@ name = "Contato"
 weight = 5
 url = "contact/"
 
-[languages.he-il]
+[languages.yi-in]
 languagedirection = 'rtl'
 languageName = ":israel:"
 title = "גרײעם מײַערס"
 
-[languages.he-il.params]
+[languages.yi-in.params]
 author = "גרײעם מײַערס"
 info = "Candidato a Mestrado, Literatura Comparativa e Estudos Judaicos - Universidade de Toronto"
 description = "Sítio pessoal de Graeme Myers"
 keywords = "academic,desenvolvedor,pessoal"
 
-[[languages.he-il.menu.main]]
+[[languages.yi-in.menu.main]]
 name = "װעגן איך"
 weight = 1
 url = "about/"
 
-[[languages.he-il.menu.main]]
+[[languages.yi-in.menu.main]]
 name = "רעזומע"
 weight = 2
 url = "cv/"
 
-[[languages.he-il.menu.main]]
+[[languages.yi-in.menu.main]]
 name = "פּובליקאַציעס"
 weight = 3
 url = "publications/"
 
-[[languages.he-il.menu.main]]
+[[languages.yi-in.menu.main]]
 name = "קאָנטאַקטירן"
 weight = 5
 url = "contact/"
