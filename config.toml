@@ -106,6 +106,8 @@ url = "https://github.cdn.hbchan.top/gmyers7/"
 
 [languages.en]
 languageName = ":canada:"
+weight = 1
+contentDir = "content/english"
 
 [[languages.en.menu.main]]
 name = "About"
@@ -127,93 +129,99 @@ name = "Contact"
 weight = 4
 url = "contact/"
 
-[languages.es-ar]
+[languages.es]
 languageName = ":argentina:"
+weight = 2
 title = "Graeme Myers"
+contentDir = "content/spanish"
 
-[languages.es-ar.params]
+[languages.es.params]
 author = "Graeme Myers"
 info = "Candidato de Magistre, Literatura Comparativa e Estudios Judíos - Universidad de Toronto"
 description = "Sítio personal de Graeme Myers"
 keywords = "academic,desarrollador,personal"
 
-[[languages.es-ar.menu.main]]
+[[languages.es.menu.main]]
 name = "Sobre"
 weight = 1
 url = "about/"
 
-[[languages.es-ar.menu.main]]
+[[languages.es.menu.main]]
 name = "CV"
 weight = 2
 url = "cv/"
 
-[[languages.es-ar.menu.main]]
+[[languages.es.menu.main]]
 name = "Publicaciones"
 weight = 3
 url = "publications/"
 
-[[languages.es-ar.menu.main]]
+[[languages.es.menu.main]]
 name = "Contacto"
 weight = 5
 url = "contact/"
 
-[languages.pt-br]
+[languages.pt]
 languageName = ":brazil:"
+weight = 3
 title = "Graeme Myers"
+contentDir = "content/portuguese"
 
-[languages.pt-br.params]
+[languages.pt.params]
 author = "Graeme Myers"
 info = "Candidato a Mestrado, Literatura Comparativa e Estudos Judaicos - Universidade de Toronto"
 description = "Sítio pessoal de Graeme Myers"
 keywords = "academic,desenvolvedor,pessoal"
 
-[[languages.pt-br.menu.main]]
+[[languages.pt.menu.main]]
 name = "Sobre"
 weight = 1
 url = "about/"
 
-[[languages.pt-br.menu.main]]
+[[languages.pt.menu.main]]
 name = "CV"
 weight = 2
 url = "cv/"
 
-[[languages.pt-br.menu.main]]
+[[languages.pt.menu.main]]
 name = "Publicações"
 weight = 3
 url = "publications/"
 
-[[languages.pt-br.menu.main]]
+[[languages.pt.menu.main]]
 name = "Contato"
 weight = 5
 url = "contact/"
 
-[languages.yi-in]
+[languages.yi]
 languagedirection = 'rtl'
 languageName = ":israel:"
+weight = 4
 title = "גרײעם מײַערס"
+contentDir = "content/yiddish"
 
-[languages.yi-in.params]
+[languages.yi.params]
 author = "גרײעם מײַערס"
 info = "Candidato a Mestrado, Literatura Comparativa e Estudos Judaicos - Universidade de Toronto"
 description = "Sítio pessoal de Graeme Myers"
 keywords = "academic,desenvolvedor,pessoal"
 
-[[languages.yi-in.menu.main]]
+[[languages.yi.menu.main]]
 name = "װעגן איך"
 weight = 1
 url = "about/"
 
-[[languages.yi-in.menu.main]]
+[[languages.yi.menu.main]]
 name = "רעזומע"
 weight = 2
 url = "cv/"
 
-[[languages.yi-in.menu.main]]
+[[languages.yi.menu.main]]
 name = "פּובליקאַציעס"
 weight = 3
 url = "publications/"
 
-[[languages.yi-in.menu.main]]
+[[languages.yi.menu.main]]
 name = "קאָנטאַקטירן"
 weight = 5
 url = "contact/"
