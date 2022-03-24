@@ -14,7 +14,7 @@ author = "Graeme Myers"
 description = "Graeme Myers Personal Site"
 keywords = "academic,developer,personal"
 info = ["MA Candidate - Comparative Literature & Jewish Studies", "University of Toronto"]
-avatarURL = "/images/graememyers.jpg"
+avatarURL = "images/graememyers.jpg"
 dateFormat = "January 2, 2006"
 since = 2022
 # Git Commit in Footer, uncomment the line below to enable it
