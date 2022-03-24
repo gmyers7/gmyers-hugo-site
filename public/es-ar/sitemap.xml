@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://graememyers.com/es-ar/contact.es/</loc>
+    <lastmod>2022-03-23T11:42:26-04:00</lastmod>
+  </url><url>
+    <loc>http://graememyers.com/es-ar/publications.es/</loc>
+    <lastmod>2022-03-23T11:42:19-04:00</lastmod>
+  </url><url>
+    <loc>http://graememyers.com/es-ar/cv.es/</loc>
+    <lastmod>2022-03-23T11:42:13-04:00</lastmod>
+  </url><url>
+    <loc>http://graememyers.com/es-ar/about.es/</loc>
+    <lastmod>2022-03-23T11:42:00-04:00</lastmod>
+  </url><url>
     <loc>http://graememyers.com/es-ar/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -10,8 +22,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="http://graememyers.com/pt-br/authors/"
+                hreflang="pt"
+                href="http://graememyers.com/pt/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="yi-in"
+                href="http://graememyers.com/yi-in/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -27,8 +44,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="http://graememyers.com/pt-br/categories/"
+                hreflang="pt"
+                href="http://graememyers.com/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="yi-in"
+                href="http://graememyers.com/yi-in/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -44,8 +66,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="http://graememyers.com/pt-br/"
+                hreflang="pt"
+                href="http://graememyers.com/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="yi-in"
+                href="http://graememyers.com/yi-in/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -61,8 +88,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="http://graememyers.com/pt-br/series/"
+                hreflang="pt"
+                href="http://graememyers.com/pt/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="yi-in"
+                href="http://graememyers.com/yi-in/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -78,8 +110,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="http://graememyers.com/pt-br/tags/"
+                hreflang="pt"
+                href="http://graememyers.com/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="yi-in"
+                href="http://graememyers.com/yi-in/tags/"
                 />
     <xhtml:link
                 rel="alternate"

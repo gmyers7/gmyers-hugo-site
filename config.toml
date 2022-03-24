@@ -101,7 +101,13 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://github.cdn.hbchan.top/gmyers7/"
+url = "https://github.com/gmyers7/"
+
+[[params.social]]
+name = "Flickr"
+icon = "fa fa-2x fa-flickr"
+weight = 2
+url = "https://www.flickr.com/people/195280863@N04/"
 
 [languages.en]
 languageName = ":canada:"
@@ -128,34 +134,34 @@ name = "Contact"
 weight = 4
 url = "contact/"
 
-[languages.es]
+[languages.es-ar]
 languageName = ":argentina:"
 weight = 2
 title = "Graeme Myers"
 contentDir = "content/spanish"
 
-[languages.es.params]
+[languages.es-ar.params]
 author = "Graeme Myers"
 info = "Candidato de Magistre, Literatura Comparativa e Estudios Judíos - Universidad de Toronto"
 description = "Sítio personal de Graeme Myers"
 keywords = "academic,desarrollador,personal"
 
-[[languages.es.menu.main]]
-name = "Sobre"
+[[languages.es-ar.menu.main]]
+name = "Acerca de mi"
 weight = 1
 url = "about/"
 
-[[languages.es.menu.main]]
+[[languages.es-ar.menu.main]]
 name = "CV"
 weight = 2
 url = "cv/"
 
-[[languages.es.menu.main]]
+[[languages.es-ar.menu.main]]
 name = "Publicaciones"
 weight = 3
 url = "publications/"
 
-[[languages.es.menu.main]]
+[[languages.es-ar.menu.main]]
 name = "Contacto"
 weight = 5
 url = "contact/"
@@ -192,35 +198,35 @@ name = "Contato"
 weight = 5
 url = "contact/"
 
-[languages.yi]
+[languages.yi-in]
 languagedirection = 'rtl'
-languageName = ":israel:"
+languageName = ":menorah:"
 weight = 4
 title = "גרײעם מײַערס"
 contentDir = "content/yiddish"
 
-[languages.yi.params]
+[languages.yi-in.params]
 author = "גרײעם מײַערס"
-info = "Candidato a Mestrado, Literatura Comparativa e Estudos Judaicos - Universidade de Toronto"
-description = "Sítio pessoal de Graeme Myers"
+info = "מאַגיסטער קאַנדידאַט - אוניװערסיטעט פֿון טאָראָנטאָ"
+description = "גרײעם מײַערס"
 keywords = "academic,desenvolvedor,pessoal"
 
-[[languages.yi.menu.main]]
-name = "װעגן איך"
+[[languages.yi-in.menu.main]]
+name = "װעגן מיר"
 weight = 1
 url = "about/"
 
-[[languages.yi.menu.main]]
+[[languages.yi-in.menu.main]]
 name = "רעזומע"
 weight = 2
 url = "cv/"
 
-[[languages.yi.menu.main]]
+[[languages.yi-in.menu.main]]
 name = "פּובליקאַציעס"
 weight = 3
 url = "publications/"
 
-[[languages.yi.menu.main]]
-name = "קאָנטאַקטירן"
+[[languages.yi-in.menu.main]]
+name = "קאָנטאַקט"
 weight = 5
 url = "contact/"
