@@ -4,43 +4,41 @@
     <title>Graeme Myers</title>
     <link>http://graememyers.com/</link>
     <description>Recent content on Graeme Myers</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 23 Mar 2022 11:42:26 -0400</lastBuildDate><atom:link href="http://graememyers.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://graememyers.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://graememyers.com/pages/contact/contact/</link>
+      <link>http://graememyers.com/contact/</link>
       <pubDate>Wed, 23 Mar 2022 11:42:26 -0400</pubDate>
       
-      <guid>http://graememyers.com/pages/contact/contact/</guid>
-      <description>Coming Soon</description>
+      <guid>http://graememyers.com/contact/</guid>
+      <description>Coming Soon - need to build a form.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://graememyers.com/pages/publications/publications/</link>
+      <link>http://graememyers.com/publications/</link>
       <pubDate>Wed, 23 Mar 2022 11:42:19 -0400</pubDate>
       
-      <guid>http://graememyers.com/pages/publications/publications/</guid>
-      <description>Coming Soon</description>
+      <guid>http://graememyers.com/publications/</guid>
+      <description>Coming eventually in English - will be built in other languages first.</description>
     </item>
     
     <item>
-      <title>Cv</title>
-      <link>http://graememyers.com/pages/cv/cv/</link>
+      <title>CV</title>
+      <link>http://graememyers.com/cv/</link>
       <pubDate>Wed, 23 Mar 2022 11:42:13 -0400</pubDate>
       
-      <guid>http://graememyers.com/pages/cv/cv/</guid>
+      <guid>http://graememyers.com/cv/</guid>
       <description>Coming Soon</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://graememyers.com/pages/about/</link>
+      <link>http://graememyers.com/about/</link>
       <pubDate>Wed, 23 Mar 2022 11:42:00 -0400</pubDate>
       
-      <guid>http://graememyers.com/pages/about/</guid>
-      <description>Coming Soon</description>
+      <guid>http://graememyers.com/about/</guid>
+      <description>I&amp;rsquo;m Graeme and I&amp;rsquo;m an MA candidate at the University of Toronto. I made this site as a test environment for multilingual setups with Hugo, the static site generator. You can check my github for the config files, as well as other translation projects in the near future.</description>
     </item>
     
   </channel>

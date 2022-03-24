@@ -2,49 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://graememyers.com/pages/contact/contact/</loc>
-    <lastmod>2022-03-23T11:42:26-04:00</lastmod>
-  </url><url>
-    <loc>http://graememyers.com/</loc>
+    <loc>http://graememyers.com/contact/</loc>
     <lastmod>2022-03-23T11:42:26-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es-ar"
-                href="http://graememyers.com/es-ar/"
+                hreflang="es"
+                href="http://graememyers.com/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="http://graememyers.com/pt-br/"
+                hreflang="pt"
+                href="http://graememyers.com/pt/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="yi"
+                href="http://graememyers.com/yi/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://graememyers.com/"
+                href="http://graememyers.com/contact/"
                 />
   </url><url>
-    <loc>http://graememyers.com/pages/</loc>
-    <lastmod>2022-03-23T11:42:26-04:00</lastmod>
-  </url><url>
-    <loc>http://graememyers.com/pages/publications/publications/</loc>
+    <loc>http://graememyers.com/publications/</loc>
     <lastmod>2022-03-23T11:42:19-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://graememyers.com/es/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://graememyers.com/pt/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="yi"
+                href="http://graememyers.com/yi/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://graememyers.com/publications/"
+                />
   </url><url>
-    <loc>http://graememyers.com/pages/cv/cv/</loc>
+    <loc>http://graememyers.com/cv/</loc>
     <lastmod>2022-03-23T11:42:13-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://graememyers.com/es/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://graememyers.com/pt/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="yi"
+                href="http://graememyers.com/yi/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://graememyers.com/cv/"
+                />
   </url><url>
-    <loc>http://graememyers.com/pages/about/</loc>
+    <loc>http://graememyers.com/about/</loc>
     <lastmod>2022-03-23T11:42:00-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://graememyers.com/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://graememyers.com/pt/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="yi"
+                href="http://graememyers.com/yi/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://graememyers.com/about/"
+                />
   </url><url>
     <loc>http://graememyers.com/authors/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es-ar"
-                href="http://graememyers.com/es-ar/authors/"
+                hreflang="es"
+                href="http://graememyers.com/es/authors/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="http://graememyers.com/pt-br/authors/"
+                hreflang="pt"
+                href="http://graememyers.com/pt/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="yi"
+                href="http://graememyers.com/yi/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -55,13 +119,18 @@
     <loc>http://graememyers.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es-ar"
-                href="http://graememyers.com/es-ar/categories/"
+                hreflang="es"
+                href="http://graememyers.com/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="http://graememyers.com/pt-br/categories/"
+                hreflang="pt"
+                href="http://graememyers.com/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="yi"
+                href="http://graememyers.com/yi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -69,16 +138,43 @@
                 href="http://graememyers.com/categories/"
                 />
   </url><url>
-    <loc>http://graememyers.com/series/</loc>
+    <loc>http://graememyers.com/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es-ar"
-                href="http://graememyers.com/es-ar/series/"
+                hreflang="es"
+                href="http://graememyers.com/es/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="http://graememyers.com/pt-br/series/"
+                hreflang="pt"
+                href="http://graememyers.com/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="yi"
+                href="http://graememyers.com/yi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://graememyers.com/"
+                />
+  </url><url>
+    <loc>http://graememyers.com/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://graememyers.com/es/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://graememyers.com/pt/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="yi"
+                href="http://graememyers.com/yi/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -89,13 +185,18 @@
     <loc>http://graememyers.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es-ar"
-                href="http://graememyers.com/es-ar/tags/"
+                hreflang="es"
+                href="http://graememyers.com/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
-                href="http://graememyers.com/pt-br/tags/"
+                hreflang="pt"
+                href="http://graememyers.com/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="yi"
+                href="http://graememyers.com/yi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
