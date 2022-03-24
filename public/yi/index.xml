@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>גרײעם מײַערס</title>
+    <link>http://graememyers.com/yi/</link>
+    <description>Recent content on גרײעם מײַערס</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://graememyers.com/yi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>קאָנטאַקטירן</title>
+      <link>http://graememyers.com/yi/contact/</link>
+      <pubDate>Wed, 23 Mar 2022 11:42:26 -0400</pubDate>
+      
+      <guid>http://graememyers.com/yi/contact/</guid>
+      <description>קאָנטאַקטירן</description>
+    </item>
+    
+    <item>
+      <title>פּובליקאַציעס</title>
+      <link>http://graememyers.com/yi/publications/</link>
+      <pubDate>Wed, 23 Mar 2022 11:42:19 -0400</pubDate>
+      
+      <guid>http://graememyers.com/yi/publications/</guid>
+      <description>פּובליקאַציעס</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://graememyers.com/yi/cv/</link>
+      <pubDate>Wed, 23 Mar 2022 11:42:13 -0400</pubDate>
+      
+      <guid>http://graememyers.com/yi/cv/</guid>
+      <description>Coming Soon</description>
+    </item>
+    
+    <item>
+      <title>װעגן איך</title>
+      <link>http://graememyers.com/yi/about/</link>
+      <pubDate>Wed, 23 Mar 2022 11:42:00 -0400</pubDate>
+      
+      <guid>http://graememyers.com/yi/about/</guid>
+      <description>איך הײס גרײעם און איך בין אַ סטודענט אין טאָראָןנטאָ.</description>
+    </item>
+    
+  </channel>
+</rss>
