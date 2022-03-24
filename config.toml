@@ -1,7 +1,6 @@
 baseURL = "http://graememyers.com"
 title = "Graeme Myers"
 theme = "hugo-coder"
-languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
 pygmentsStyle = "bw"
@@ -13,7 +12,7 @@ enableEmoji = true
 author = "Graeme Myers"
 description = "Graeme Myers Personal Site"
 keywords = "academic,developer,personal"
-info = ["MA Candidate - Comparative Literature & Jewish Studies", "University of Toronto"]
+info = ["MA Candidate - University of Toronto"]
 avatarURL = "images/graememyers.jpg"
 dateFormat = "January 2, 2006"
 since = 2022
