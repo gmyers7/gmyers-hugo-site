@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on גרײעם מײַערס</title>
-    <link>http://graememyers.com/yi-in/authors/</link>
+    <link>/yi-in/authors/</link>
     <description>Recent content in Authors on גרײעם מײַערס</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://graememyers.com/yi-in/authors/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/yi-in/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
